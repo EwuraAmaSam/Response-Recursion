@@ -1,0 +1,16 @@
+numpy
+torch
+scikit-learn
+sentence-transformers
+transformers
+accelerate
+sentencepiece
+regex
+pandas
+pyarrow
+fastapi
+uvicorn[standard]
+pydantic>=2.0
+jinja2
+spacy
+pytest
